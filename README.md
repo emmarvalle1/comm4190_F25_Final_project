@@ -13,4 +13,6 @@ RenovAI is an AI-powered home renovation assistant designed to help users move f
     * Francesca's usage scenarios
     * Marco's usage scenarios
     * Emma's usage scenarios
-
+* Milestone 5:
+    * README
+    * LLM Application Workflow & Test Notebook
