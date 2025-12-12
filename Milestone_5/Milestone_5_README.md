@@ -5,10 +5,9 @@ Each group member created a workflow notebook based on their two usage scenarios
 Milestone 5 required us to:
 
 1. **Create workflows** for how our LLM application handles user inputs  
-2. **Visualize workflows** using Mermaid.js flowcharts  
+2. **Visualize workflows** using flowcharts  
 3. **Implement the workflows** using either code or prompt-based patterns  
 4. **Test the workflows** using our detailed scenarios from Milestone 3  
-5. **Document everything clearly** in individual notebooks
 
 ---
 
