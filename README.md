@@ -9,23 +9,23 @@ RenovAI is an AI-powered home renovation assistant designed to help users move f
 * Milestone 1:
     * [Initial ideas](Initial_ideas)
        * [Emma's pitch](Initial_ideas/Emma_Pitch.ipynb)
-       * [Marco's pitch](Marco_Pitch.ipynb)
-       * [Francesca's pitch](Francesca_Pitch.ipynb)
+       * [Marco's pitch](Initial_ideas/Marco_Pitch.ipynb)
+       * [Francesca's pitch](Initial_ideas/Francesca_Pitch.ipynb)
 * Milestone 2:
     * [01 Project idea](01_Project_Idea.ipynb)
     * [02 Usage Scenarios](02_Usage_scenarios.ipynb)
     * [Scenarios](Scenarios)
-       * [Emma's Scenarios](Emma_Scenarios.ipynb)
-       * [Francesca's Scenarios](Francesca_Scenarios.ipynb)
-       * [Marco's Scenarios](Marco_Scenarios.ipynb)
+       * [Emma's Scenarios](Scenarios/Emma_Scenarios.ipynb)
+       * [Francesca's Scenarios](Scenarios/Francesca_Scenarios.ipynb)
+       * [Marco's Scenarios](Scenarios/Marco_Scenarios.ipynb)
 * [Milestone 3](Milestone_3):
-    * [Francesca's usage scenarios](Francesca_Usage_Scenarios.ipynb)
-    * [Marco's usage scenarios](Marco_Usage_Scenarios.ipynb)
-    * [Emma's usage scenarios](Emma_Usage_Scenarios.ipynb)
+    * [Francesca's usage scenarios](Milestone_3/Francesca_Usage_Scenarios.ipynb)
+    * [Marco's usage scenarios](Milestone_3/Marco_Usage_Scenarios.ipynb)
+    * [Emma's usage scenarios](Milestone_3/Emma_Usage_Scenarios.ipynb)
 * [Milestone 5](Milestone_5):
     * [README](Milestone_5_README.md)
-    * [LLM Application Workflow (Francesca)](Workflow_Francesca.ipynb)
-    * [LLM Application Workflow (Marco)](Worflow_Marco.ipynb)
-    * [LLM Application Workflow (Emma)](Workflow_Emma.ipynb)
+    * [LLM Application Workflow (Francesca)](Milestone_5/Workflow_Francesca.ipynb)
+    * [LLM Application Workflow (Marco)](Milestone_5/Worflow_Marco.ipynb)
+    * [LLM Application Workflow (Emma)](Milestone_5/Workflow_Emma.ipynb)
 
 
