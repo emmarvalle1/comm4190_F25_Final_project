@@ -8,7 +8,7 @@ RenovAI is an AI-powered home renovation assistant designed to help users move f
 **Table of Contents:**
 * Milestone 1:
     * [Initial ideas](Initial_ideas)
-       * [Emma's pitch](Emma_Pitch.ipynb)
+       * [Emma's pitch](Initial_ideas/Emma_Pitch.ipynb)
        * [Marco's pitch](Marco_Pitch.ipynb)
        * [Francesca's pitch](Francesca_Pitch.ipynb)
 * Milestone 2:
