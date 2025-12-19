@@ -20,8 +20,8 @@ RenovAI is an AI-powered home renovation assistant designed to help users move f
        * [Marco's Scenarios](Scenarios/Marco_Scenarios.ipynb)
 * [Milestone 3](Milestone_3):
     * [Francesca's usage scenarios](Milestone_3/Francesca_Usage_Scenarios)
-    * [Marco's usage scenarios](Milestone_3/Marco_Usage_Scenarios.ipynb)
-    * [Emma's usage scenarios](Milestone_3/Emma_Usage_Scenarios.ipynb)
+    * [Marco's usage scenarios](Milestone_3/Marco_Usage_Scenarios)
+    * [Emma's usage scenarios](Milestone_3/Emma_Usage_Scenarios)
 * [Milestone 5](Milestone_5):
     * [README](Milestone_5_README.md)
     * [LLM Application Workflow (Francesca)](Milestone_5/Workflow_Francesca.ipynb)
